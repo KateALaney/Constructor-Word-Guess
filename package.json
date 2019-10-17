@@ -2,7 +2,7 @@
   "name": "constructor-word-guess",
   "version": "1.0.0",
   "description": "",
-  "main": "letter.js",
+  "main": "index.js",
   "dependencies": {
     "inquirer": "^7.0.0"
   },
